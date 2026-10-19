@@ -3,7 +3,7 @@ require("dotenv").config();
 
 const databaseUrl =
   process.env.DATABASE_URL ||
-  "postgresql://postgres:Thelegende@007&@db.rehceuiowcielqtewkgd.supabase.co:5432/postgres";
+  "postgresql://postgres.rehceuiowcielqtewkgd:Thelegende@007&@aws-0-ap-northeast-2.pooler.supabase.com:5432/postgres";
 const sequelize = new Sequelize(databaseUrl, {
   dialect: "postgres",
   logging: false,

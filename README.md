@@ -43,7 +43,7 @@ cp .env.example .env
 
 ```bash
 ASSIGNMENT_TIMEOUT_MINUTES=2
-DATABASE_URL=postgresql://postgres:postgres@localhost:5432/relay
+DATABASE_URL=postgresql://postgres.rehceuiowcielqtewkgd:Thelegende@007@aws-0-ap-northeast-2.pooler.supabase.com:5432/postgres
 ```
 
 3. Install and start the API:
