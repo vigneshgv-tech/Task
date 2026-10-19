@@ -81,9 +81,9 @@ export default function DispatcherPage({
         </div>
         <div className="session-controls">
           <span>{displayName || "Dispatcher"}</span>
-          <span className="timeout-hint">
+          {/* <span className="timeout-hint">
             Confirm within {timeoutMinutes || 2} min
-          </span>
+          </span> */}
           <button className="secondary-btn" onClick={signOut}>
             Sign out
           </button>
