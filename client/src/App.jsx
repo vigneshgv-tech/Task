@@ -3,7 +3,7 @@ import AuthPage from "./pages/AuthPage";
 import DispatcherPage from "./pages/DispatcherPage";
 import RiderPage from "./pages/RiderPage";
 
-const API_URL = "http://localhost:8000";
+const API_URL = "https://project-relay-t529.onrender.com";
 
 export default function App() {
   const [dashboard, setDashboard] = useState({ summary: {}, riders: {} });
