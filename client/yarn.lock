@@ -535,7 +535,7 @@ electron-to-chromium@^1.5.439:
 esbuild@^0.21.3:
   version "0.21.5"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.21.5.tgz#9ca301b2922959b766360d8ac830da0d02997d"
-  integrity "sha1-nKMBsSCSKVm3ZjYNisgw2g0CmX0= sha512-mg3OPMV4hXywwpoDxu3Qda5xCKQi+vCTZq8S9J/EpkhB2HzKXq4SNFZE3+NK93JYxc8VMSep+lOUSC/RVKaBqw=="
+  integrity "sha512-mg3OPMV4hXywwpoDxu3Qda5xCKQi+vCTZq8S9J/EpkhB2HzKXq4SNFZE3+NK93JYxc8VMSep+lOUSC/RVKaBqw=="
   optionalDependencies:
     "@esbuild/aix-ppc64" "0.21.5"
     "@esbuild/android-arm" "0.21.5"
